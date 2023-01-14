@@ -1,0 +1,75 @@
+
+.border{
+    border: 2px solid black;
+    width: 300px;
+    height: 400px;
+    border-collapse: collapse;
+}
+
+.border td{
+    border: 1px solid black;
+}
+
+.odd1{
+    background-color: orangered;
+}
+
+.odd2 {
+    background-color: tomato;
+}
+
+.odd3{
+    background-color: coral;
+}
+
+.odd4{
+    background-color: #A9A9A9;
+}
+
+.odd5{
+    background-color: orangered;
+}
+
+.odd6{
+    background-color: tomato;
+}
+
+.odd7{
+    background-color: coral;
+}
+
+.odd8{
+    background-color: #A9A9A9;
+}
+
+.odd9{
+    background-color: orangered;
+}
+
+.odd10{
+    background-color: tomato;
+}
+
+.odd11{
+    background-color: coral;
+}
+
+.odd12{
+    background-color: darkgrey;
+}
+
+.odd13{
+    background-color: orangered;
+}
+
+.odd14{
+    background-color: tomato;
+}
+
+.odd15{
+    background-color: coral;
+}
+
+.odd16{
+    background-color: darkgray;
+}

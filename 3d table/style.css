@@ -1,0 +1,18 @@
+
+.tborder{
+    border: 2px solid black;
+    width: 700px;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+.tborder td {
+border: 1px dashed black;
+}
+
+tr:nth-child(1) {
+    background-color: peru;
+}
+
+
+
